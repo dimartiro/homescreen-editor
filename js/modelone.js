@@ -159,10 +159,6 @@ $(function () {
             convertToBW($image)
         }, 0);
     })
-
-
-
-
 });
 
 function convertToBlob(url) {

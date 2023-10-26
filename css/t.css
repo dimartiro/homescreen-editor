@@ -1,0 +1,36 @@
+body { padding-top: 70px; }
+
+
+.img-preview {
+  float: left;
+  margin-right: 10px;
+  overflow:hidden;
+  margin-bottom: -15px;
+  margin-top: -15px;
+}
+
+.img-container {
+  height: 700px;
+}
+
+.img-preview > img {
+  max-width: 100%;
+}
+
+#preview-bw {
+  width: 64px;
+  height: 64px;
+  margin-bottom: -15px;
+  margin-top: -15px;
+  border: 3px solid black;
+}
+
+#url {
+  width:250px;
+  display: inline-block;
+}
+
+.panel-body {
+  text-align: center;
+}
+
